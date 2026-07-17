@@ -27,8 +27,7 @@ Sistema ERP para gerenciamento de mídia OOH.
 Projeto de interface institucional focado na organização e apresentação do acervo histórico dos presidentes, com experiência de navegação moderna, design responsivo e gerenciamento dinâmico de conteúdo.
 
 ## Contato
-joaog.dev02@gmail.com
-@joaog.dev02
+Gmail: joaog.dev02@gmail.com
+Instagram: @joaog.dev02
 
-LinkedIn:
-Email:
+
