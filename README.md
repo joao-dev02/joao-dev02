@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**joao-dev02/joao-dev02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou João Guilherme, desenvolvedor focado em sistemas web e automação.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- REACT
+- JavaScript
+- Supabase
+- Git
+- GitHub
+
+## Projetos
+
+🚀 Intervalor System
+
+Sistema para controle de atendimentos, pagamentos e supervisão.
+
+🚀 CityDoor ERP
+
+Sistema ERP para gerenciamento de mídia OOH.
+
+🏛️ Galeria dos Presidentes do Tribunal de Contas
+
+Projeto de interface institucional focado na organização e apresentação do acervo histórico dos presidentes, com experiência de navegação moderna, design responsivo e gerenciamento dinâmico de conteúdo.
+
+## Contato
+joaog.dev02@gmail.com
+@joaog.dev02
+
+LinkedIn:
+Email:
