@@ -28,6 +28,6 @@ Projeto de interface institucional focado na organização e apresentação do a
 
 ## Contato
 Gmail: joaog.dev02@gmail.com
-Instagram: @joaog.dev02
+Instagram: @joaog.dev
 
 
