@@ -11,6 +11,7 @@ Sou João Guilherme, desenvolvedor focado em sistemas web e automação.
 - Supabase
 - Git
 - GitHub
+- n8n
 
 ## Projetos
 
